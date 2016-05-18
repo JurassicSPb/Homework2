@@ -40,6 +40,7 @@ public static void main (String [] args) {
     else if (D == 0)
     {
         double x = -b / (2 *a);
+        System.out.println (" Корень уравнения x: " + x);
     }
     else
     {
